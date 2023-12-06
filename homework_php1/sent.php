@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <header>
         <a href=""><img src="logo.png" alt="ロゴの名前"></a>

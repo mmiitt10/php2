@@ -56,6 +56,7 @@
                 </select> 
                 <input type="submit" value="送信">
             </div>
+            
     </main>
 </body>
 </html>
