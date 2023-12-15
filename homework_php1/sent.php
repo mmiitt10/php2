@@ -14,7 +14,7 @@
         <h1>Digital CRO for Agents</h1>
     </header>
     <main>
-        <div class="thanks-message">お問い合わせいただきありがとうございます。</div>
+        <div class="thanks-message">入力が完了しました</div>
         <div class="display-contact">
             <div class="form-title">入力内容</div>
 
